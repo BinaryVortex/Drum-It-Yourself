@@ -4,11 +4,11 @@ Interactive Drums<br>
 Learn how to play drums and make your own beat
 <br>
 <br>        
-<a href="https://houssemlachtar.github.io/Drums-It-Yourself/">
+<a href="https://binaryvortex.github.io/Drum-It-Yourself/">
         <img alt="DrumsItYourself.com" src="./img/DrumsItYourself.com.jpg" />
     </a>
 <br>
-<a href="https://houssemlachtar.github.io/Drums-It-Yourself/">
+<a href="https://binaryvortex.github.io/Drum-It-Yourself/">
         Demo
     </a>
 </p>
@@ -40,7 +40,3 @@ Learn how to play drums and make your own beat
 
 ## Web Audio not compatible with Safari Browser IOS ❌ 
 
-
-## Follow me on
-
-[Instagram](https://www.instagram.com/houssem_lachtar/), [Linkedin ](https://www.linkedin.com/in/houssem-lachtar/), [Codepen](https://codepen.io/houssem-lachtar), [GitHub](https://github.com/houssemlachtar)
